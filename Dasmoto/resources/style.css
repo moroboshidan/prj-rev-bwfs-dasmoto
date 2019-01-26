@@ -1,0 +1,26 @@
+#brushes {
+  background-color: green;
+  color: white;
+}
+
+#frames {
+  background-color: red;
+  color: white;
+}
+
+#paint {
+  background-color: blue;
+  color: white;
+}
+
+h1 {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  color: yellow;
+  font-size: 150px;
+  text-align: center;
+}
+
+.price {
+  color: blue;
+  font-weight: bold;
+}
